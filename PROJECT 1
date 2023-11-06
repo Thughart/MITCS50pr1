@@ -1,0 +1,8 @@
+echo "# MITCS50pr1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Thughart/MITCS50pr1.git
+git push -u origin main
+https://scratch.mit.edu/projects/919858228
